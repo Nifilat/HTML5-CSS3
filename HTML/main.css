@@ -1,0 +1,18 @@
+/* ID SELECTORS */
+#title {
+  color: aqua;
+  background: black;
+}
+
+#footer {
+  color: brown;
+  background: bisque;
+}
+/* CLASS SELECTORS */
+.green {
+  color: green;
+}
+.red {
+  color: red;
+  background: gray;
+}
