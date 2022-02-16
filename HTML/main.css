@@ -16,3 +16,19 @@
   color: red;
   background: gray;
 }
+
+/* DIV SPAN */
+.green {
+  color: green;
+}
+.red {
+  color: red;
+  background: gray;
+}
+div {
+  color: red;
+  background: gray;
+}
+span {
+  text-transform: uppercase;
+}
